@@ -12,7 +12,7 @@
   <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy"
       ><img
-        src="https://github-profile-trophy.vercel.app/?username=arkisoul"
+        src="https://github-profile-trophy.vercel.app/?username=arkisoul&column=4&margin-w=15&margin-h=15"
         alt="arkisoul"
     /></a>
   </p>
@@ -230,7 +230,7 @@
 
 <section class="statstics">
   <h3>Statistics:</h3>
-  <div style="display: grid; gap: 1px">
+  <div style="display: flex; flex-direction: column; gap: 10px">
     <p>
       <img
         align="left"
